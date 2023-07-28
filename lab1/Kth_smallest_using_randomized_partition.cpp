@@ -1,6 +1,12 @@
+/*
+Name : Daxrajsinh Jadeja
+Roll No. : CE052
+ID : 21CEUES118
+Sem - V
+*/
+
 #include <bits/stdc++.h>
 using namespace std;
-
 
 int partition(int a[], int p, int r) {
   int x = a[r];
