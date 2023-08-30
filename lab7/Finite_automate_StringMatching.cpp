@@ -40,7 +40,7 @@ int main() {
     
     int n = t.size(), m = p.size();
 
-    int T[m+1][256];      //0 to m (i.e. m+1) and 26 for a to z.
+    int T[m+1][256];      //0 to m (i.e. m+1).
     
     //compute Transition function table.
     int s, x;   //s = state.
