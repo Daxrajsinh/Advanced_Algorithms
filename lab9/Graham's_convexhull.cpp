@@ -131,5 +131,14 @@ int main() {
         cout << st.top().x << "," << st.top().y << endl;
         st.pop();
     }
+    
+    // o/p :
+    // Convex Hull points :
+    // -1,3
+    // 1,2
+    // 3,1
+    // 0,5
+    // 0,0
+    
     return 0;
 }
