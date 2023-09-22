@@ -1,9 +1,9 @@
 AA AKG_labs
 
-Name : **Daxrajsinh M. Jadeja**
-R.no : **CE052**
-SEM - V
-ID : **21CEUES118**
+Name : **Daxrajsinh M. Jadeja**<br />
+R.no : **CE052**<br />
+SEM - V<br />
+ID : **21CEUES118**<br />
 
 
 Proposed to : **Prof. Ashish K. Gor**
