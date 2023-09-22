@@ -6,7 +6,7 @@ Sem - V
 */
 
 //Randomized approximation of MVC.
-//Time complexity : 
+//Time complexity (average) : O(E), E = no. of Edges. POLYNOMIAL.
 
 #include<bits/stdc++.h>
 using namespace std;
