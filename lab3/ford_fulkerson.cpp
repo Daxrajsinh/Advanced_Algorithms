@@ -57,7 +57,7 @@ int fordfulkerson(vector<vector<int>> &G, int s, int t) {
         //Finding Bottleneck Capacity
         for (int v = t; v != s; v = parent[v]) {
             int u = parent[v];
-            path_flow = min(bottleneck, residualGraph[u][v]);
+            bottleneck = min(bottleneck, residualGraph[u][v]);
         }
 
         for (int v = t; v != s; v = parent[v]) {
