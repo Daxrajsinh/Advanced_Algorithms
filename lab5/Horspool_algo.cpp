@@ -25,8 +25,8 @@ int main() {
 
     map<char, int> shift;
 
-    for (int i = 0; i < 256; i++) {
-        shift[i] = m;
+    for (int i = 0; i < 26; i++) {
+        shift[i+'a'] = m;
     }
 
     for (int i = 0; i <= m - 2; i++) {
