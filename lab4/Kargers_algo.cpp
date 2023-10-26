@@ -99,7 +99,7 @@ int main() {
            if(set1 != set2) {
                     // cout << "Contracting vertices " << u << " and " << v << endl;
                     // Merging vertices u and v into one.
-                    Union(u,v,parent);
+                    //Union(u,v,parent);
                     Union(set1, set2, parent);
                     // Reducing count of vertices by 1.
                     n--;
